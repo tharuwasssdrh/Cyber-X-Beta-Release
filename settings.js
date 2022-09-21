@@ -38,8 +38,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 //OWNER CONTACT
 global.vcardowner = ['94740925284'] //ur owner number
 global.ownername = "𝚃𝚑𝚊𝚛𝚞𝚠𝚊" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
+global.ytname = "YT: Tharuksha official" //ur yt chanel name
+global.socialm = "Whatsapp :https://chat.whatsapp.com/DXRrNsAN2z1346anAMTpdC" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
@@ -47,11 +47,11 @@ global.owner = ['94740925284']
 global.ownertag = '94740925284' //ur tag number
 global.botnumber = '94740930556' //Add your Bot Number For Log
 global.botname = '𝚃𝚑𝚊𝚛𝚞𝚠𝚊 ☄' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
-global.reactmoji = "😘" //ur menu react emoji
+global.ig = "https://youtube.com/channel/UCs9UEyCiQwS0K_930486TSw" //your theme url which will be displayed on whatsapp
+global.myweb = "https://youtube.com/channel/UCs9UEyCiQwS0K_930486TSw" //ur website to be displayed
+global.sc = 'https://youtube.com/channel/UCs9UEyCiQwS0K_930486TSw' //script link
+global.linkz = 'https://youtube.com/channel/UCs9UEyCiQwS0K_930486TSw'
+global.reactmoji = "☎" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = "𝚃𝚑𝚊𝚛𝚞𝚠𝚊 Test Bot" //ur sticker watermark packname
 global.author = "𝚃𝚑𝚊𝚛𝚞𝚠𝚊" //ur sticker watermark author
